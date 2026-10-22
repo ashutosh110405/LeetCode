@@ -1,7 +1,7 @@
-# [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2172209194/)
+# [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2178863551/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
-![Language: java](https://img.shields.io/badge/Language-java-blue?style=flat-square)
+![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
 ![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
 ![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
@@ -48,4 +48,4 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 ---
 
-*Solved on Oct 14, 2026 using **LeetCommit**.*
+*Solved on Oct 22, 2026 using **LeetCommit**.*
