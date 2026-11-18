@@ -1,7 +1,7 @@
-# [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/2198821205/)
+# [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/2198822636/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
-![Language: python](https://img.shields.io/badge/Language-python-blue?style=flat-square)
+![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
 ![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
 ![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
