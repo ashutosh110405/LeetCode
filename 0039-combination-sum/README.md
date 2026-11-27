@@ -1,9 +1,7 @@
-# [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/2204655516/)
+# [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
-![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
